@@ -1,0 +1,7 @@
+falcon
+peewee
+gunicorn
+gunicorn[eventlet]
+python-engineio
+python-socketio
+psycopg2-binary
